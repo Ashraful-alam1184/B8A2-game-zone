@@ -179,6 +179,21 @@ nav{
     font-weight: 500;
 }
 
+/* play section  */
+
+.play-instantly{
+    display: flex;
+}
+.play-container{
+    text-align: right;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.main-image{
+    width: 450px;
+    height: 450px;
+    margin-left: 200px;
+}
 
  /* responsive for mobile device  */
     @media screen and (max-width:576px){
